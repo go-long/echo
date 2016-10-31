@@ -7,7 +7,7 @@ import (
 
 	"net"
 
-	"github.com/labstack/echo/log"
+	"github.com/go-long/echo/log"
 )
 
 type (

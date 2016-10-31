@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/labstack/gommon/log"
+	"github.com/go-long/gommon/log"
 	"github.com/stretchr/testify/assert"
 )
 

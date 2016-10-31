@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/gommon/color"
+	"github.com/go-long/echo"
+	"github.com/go-long/gommon/color"
 	isatty "github.com/mattn/go-isatty"
 	"github.com/valyala/fasttemplate"
 )

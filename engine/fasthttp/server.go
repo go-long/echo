@@ -5,10 +5,10 @@ package fasthttp
 import (
 	"sync"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/engine"
-	"github.com/labstack/echo/log"
-	glog "github.com/labstack/gommon/log"
+	"github.com/go-long/echo"
+	"github.com/go-long/echo/engine"
+	"github.com/go-long/echo/log"
+	glog "github.com/go-long/gommon/log"
 	"github.com/valyala/fasthttp"
 )
 

@@ -3,7 +3,7 @@ package log
 import (
 	"io"
 
-	"github.com/labstack/gommon/log"
+	"github.com/go-long/gommon/log"
 )
 
 type (

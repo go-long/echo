@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/valyala/fasthttp"
 
-	"github.com/labstack/gommon/log"
+	"github.com/go-long/gommon/log"
 )
 
 func TestResponseWriteHeader(t *testing.T) {

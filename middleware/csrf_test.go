@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/test"
-	"github.com/labstack/gommon/random"
+	"github.com/go-long/echo"
+	"github.com/go-long/echo/test"
+	"github.com/go-long/gommon/random"
 	"github.com/stretchr/testify/assert"
 )
 

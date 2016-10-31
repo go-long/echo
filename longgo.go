@@ -1,6 +1,6 @@
 package echo
 
-//import 	"github.com/labstack/gommon/log"
+//import 	"github.com/go-long/gommon/log"
 
 func (e *Echo) Add(method, path string, handler HandlerFunc, middleware ...MiddlewareFunc) {
 	 e.add(method, path, handler, middleware...)

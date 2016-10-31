@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/labstack/echo/engine"
+	"github.com/go-long/echo/engine"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/test"
+	"github.com/go-long/echo"
+	"github.com/go-long/echo/test"
 	"github.com/stretchr/testify/assert"
 )
 

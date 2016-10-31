@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/engine"
+	"github.com/go-long/echo"
+	"github.com/go-long/echo/engine"
 )
 
 type (

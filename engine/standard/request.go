@@ -9,9 +9,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/labstack/echo"
-	"github.com/labstack/echo/engine"
-	"github.com/labstack/echo/log"
+	"github.com/go-long/echo"
+	"github.com/go-long/echo/engine"
+	"github.com/go-long/echo/log"
 )
 
 type (

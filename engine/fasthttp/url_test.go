@@ -1,7 +1,7 @@
 package fasthttp
 
 import (
-	"github.com/labstack/echo/engine/test"
+	"github.com/go-long/echo/engine/test"
 	"github.com/stretchr/testify/assert"
 	fast "github.com/valyala/fasthttp"
 	"testing"

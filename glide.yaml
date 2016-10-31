@@ -1,4 +1,4 @@
-package: github.com/labstack/echo
+package: github.com/go-long/echo
 import:
 - package: github.com/GeertJohan/go.rice
 - package: github.com/dgrijalva/jwt-go
@@ -6,7 +6,7 @@ import:
   subpackages:
   - gracehttp
 - package: github.com/gorilla/websocket
-- package: github.com/labstack/gommon
+- package: github.com/go-long/gommon
   subpackages:
   - bytes
   - color

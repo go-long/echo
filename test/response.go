@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/labstack/echo/engine"
-	"github.com/labstack/gommon/log"
+	"github.com/go-long/echo/engine"
+	"github.com/go-long/gommon/log"
 )
 
 type (

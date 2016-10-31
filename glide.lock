@@ -42,7 +42,7 @@ imports:
   version: 09cded8978dc9e80714c4d85b0322337b0a1e5e0
 - name: github.com/klauspost/crc32
   version: cb6bfca970f6908083f26f39a79009d608efd5cd
-- name: github.com/labstack/gommon
+- name: github.com/go-long/gommon
   version: f3b1a1b3bd4726161e1200863d278df7da5e66ff
   subpackages:
   - bytes
